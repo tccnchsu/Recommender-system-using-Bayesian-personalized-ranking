@@ -1,11 +1,12 @@
 # Recommender-system-using-Bayesian-personalized-ranking
 Recommend system using Bayesian personalized ranking
 
-典型機器學習範例
+
 Matrix Factorization Techniques For Recommender Systems 
 
 https://hpi.de/fileadmin/user_upload/fachgebiete/naumann/lehre/SS2011/Collaborative_Filtering/pres1-matrixfactorization.pdf
 
+典型機器學習範例
 Recommender system using Bayesian personalized ranking
 
 https://towardsdatascience.com/recommender-system-using-bayesian-personalized-ranking-d30e98bba0b9
